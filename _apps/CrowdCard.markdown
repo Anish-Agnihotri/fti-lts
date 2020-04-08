@@ -3,9 +3,19 @@ layout: post
 title:  "CrowdCard"
 description: >-
   Save restaurants by allowing them to guarantee each other's gift cards in a centralized platform.
-category: application
+category: collaboration-and-society
+authors:
+- name: Matthew Thomas
+  url: https://mwt.me
+- name: Paridhi Khaitan
+  url: https://www.paridhikhaitan.me
+- name: Aman Luthra
+  url: https://github.com/aman1403
+- name: Conor McCormack
+  url: https://www.linkedin.com/in/conorxmccormack/
 status: "Awaiting decision"
 ---
+
 # One line summary of the idea.
 {{ page.description }}
 
