@@ -8,4 +8,5 @@
 | Team Name | One-liner | Proposal link | Members | Status |
 |-----------|-----------|---------------|---------|--------|
 |LocalKarma|LocalKarma is a scalable, open-source e-commerce plugin that enables shop owners to provide customers with the ability to confidently and securely donate to intelligently-suggested local charities by rounding up their orders at checkout.|               |         |Awaiting decision|
+| bigNumbers | 40 billions here, 1.7 trillions there. In our newschannels we are very often confronted with big numbers. A small app wants to help to get a 'feeling' for these numbers. It answers 2 questions: 1. what else is that big? 2. what does this mean to me? As I'm perhaps a citizen of the USA so let's divide the number by the number of citizens of the USA. | https://github.com/Palmstroemen/bigNumbers | 4 members found | already starting |
 |           |           |               |         |        |
