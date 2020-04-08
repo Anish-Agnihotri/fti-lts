@@ -5,7 +5,24 @@
 </p>
 
 # Applications
-| Team Name | One-liner | Proposal link | Members | Status |
-|-----------|-----------|---------------|---------|--------|
-|LocalKarma|LocalKarma is a scalable, open-source e-commerce plugin that enables shop owners to provide customers with the ability to confidently and securely donate to intelligently-suggested local charities by rounding up their orders at checkout.|               |         |Awaiting decision|
-|           |           |               |         |        |
+
+<table>
+  <thead>
+    <tr>
+      <th>Team Name</th>
+      <th>One-liner</th>
+      <th>Members</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for app in site.apps %}
+    <tr>
+      <td><a href="{{ app.url }}">{{ app.title }}</a></td>
+      <td>{{ app.description }}</td>
+      <td>{{ app.authors }}</td>
+      <td>{{ app.status }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
