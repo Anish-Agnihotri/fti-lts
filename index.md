@@ -2,7 +2,7 @@
 layout: home
 ---
 <p align="center">
-  <a href="https://builders.mozilla.community/">{% include moz-logo.svg %}</a>
+  <a href="https://builders.mozilla.community/" target="_blank">{% include moz-logo.svg %}</a>
 <h3 align="center">Fix-the-internet (S20) LTS</h3>
 <h3 align="center">Collection of Mozilla Fix-the-internet (S20) applications, ideas, and long-term results.</h3>
 </p>
